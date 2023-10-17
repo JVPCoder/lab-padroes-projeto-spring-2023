@@ -1,4 +1,4 @@
-#DIO Santander 2023 Padrões de Projeto utilizando Spring para Criar REST API
+# DIO Santander 2023 Padrões de Projeto utilizando Spring para Criar REST API
 
 ## Explorando Padrões de Projetos na Prática com Java
 
